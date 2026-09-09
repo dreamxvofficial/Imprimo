@@ -18,7 +18,7 @@ I wanted to build a 3D printer that is more than just a machine for printing par
 
 The idea behind Imprimo is to create a printer that I can continue using for future hardware projects, prototypes, enclosures, robotics projects, and other ideas.
 
-Instead of buying an existing printer and modifying it, I want to understand and design the important parts of the machine myself — from the frame and motion system to the electronics and controller PCB.
+Instead of buying an existing printer and modifying it, I want to understand and design the important parts of the machine myself from the frame and motion system to the electronics and controller PCB.
 
 ---
 
